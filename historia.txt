@@ -2,4 +2,4 @@ hola soy un texto
 
 estoy probando mi primer commit en git
 
-tambien soy irreal
+tambien soy irreal, pero me gustaría ser real
